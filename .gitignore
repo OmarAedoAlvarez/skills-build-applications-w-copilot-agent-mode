@@ -1,3 +1,22 @@
+## Ignore Python virtual environments and common artifacts
+# Virtual environment for backend
+octofit-tracker/backend/venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
 .DS_Store
 
 # Virtual Environment
